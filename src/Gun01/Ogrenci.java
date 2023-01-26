@@ -7,5 +7,6 @@ public class Ogrenci {
             System.out.println("merhaba burcu");
 
         }
+        System.out.println("yessss");
     }
 }
